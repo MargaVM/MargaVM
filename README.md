@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MargaVM
-- 👀 I’m interested in augmented, virtual and mixed reality, in videogames or apps created in Unity, IA, machine learning and Data science
+- 👀 I’m interested in augmented, virtual and mixed reality, in videogames or apps created in Unity, IA, machine learning and data science
 - 📫 How to reach me: margavarelamato@gmail.com
 
 <!---
